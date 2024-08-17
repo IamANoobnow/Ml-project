@@ -1,0 +1,1 @@
+#for converting categorical into numerical,label encoding and all different different 
